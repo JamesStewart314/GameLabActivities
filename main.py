@@ -584,6 +584,3 @@ while True:
     Menu()
 
     Janela.update()  # Atualizando a janela do jogo.
-
-# Perdão se o código ficou muito esparso ou desorganizado ksksks
-# by: Allber Fellype
