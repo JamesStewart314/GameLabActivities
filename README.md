@@ -14,4 +14,4 @@ Or obtain the libraries manually through the official websites:
 ● Pygame: https://www.pygame.org/download.shtml
 
 
-~ Allber F. S. Ferreira, Fluminense Federal University - 10/20/2023
+~ Allber F. S. Ferreira, Fluminense Federal University - code created in 10/20/2023.
