@@ -1,4 +1,6 @@
-This code is a prototype of the Space Invaders game, developed as an evaluation activity in the Game Programming Laboratory discipline, supervised by professor Esteban Gomes Clua at Universidade Federal Fluminense.
+# Space Invaders - Prototype
+
+This code is a prototype of the Space Invaders game, developed as an evaluation activity in the Game Programming Laboratory discipline, supervised by professor Esteban Walter Gonzalez Clua at Universidade Federal Fluminense.
 
 Furthermore, the program has dependencies on two external libraries: PPlay and Pygame. Pplay is a framework created in Python language by UFF students aiming to make creating games during the learning process simpler and more understandable. 
 The library was created directly on top of Pygame and, consequently, its presence is necessary to execute the code properly.
