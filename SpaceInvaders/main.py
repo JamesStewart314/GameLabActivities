@@ -6,7 +6,6 @@ from pplay.keyboard import *
 from pplay.sound import *
 from pplay.mouse import *
 from pplay.animation import *
-from sys import setrecursionlimit  # Para modificar o limite máximo de recursoes permitidas.
 import Constants  # Constantes referentes ao jogo.
 import Botoes
 import Funcoes
@@ -17,8 +16,6 @@ Fundo = GameImage("Assets/MenuWallpaper.jpg")  # Fundo do menu.
 FundoMenuDiff = GameImage("Assets/DiffMenuWallpaper.jpg")  # Fundo do menu de dificuldades.
 Cursor = Mouse()  # Entrada de dados do cursor.
 Teclado = Keyboard()  # Entrada de dados do teclado.
-
-setrecursionlimit(10 ** 5)  # Aumentando o limite máximo de recursões permitidas
 
 current_difficulty = Constants.current_difficulty  # Dificuldade padrão do jogo inicializada como "1".
 
