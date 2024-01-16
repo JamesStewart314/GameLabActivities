@@ -19,8 +19,6 @@ Teclado = Keyboard()  # Entrada de dados do teclado.
 
 current_difficulty = Constants.current_difficulty  # Dificuldade padrão do jogo inicializada como "1".
 
-random.seed()  # Semente aleatória utilizada para a geração do jogo.
-
 Bullet_Sound = Sound("Assets/Space_Invaders_Shoot_Sound.ogg")  # Obtendo o efeito sonoro de disparo.
 Menu_Sound = Sound("Assets/Evil_unknown.ogg")
 Menu_Sound.loop = True
