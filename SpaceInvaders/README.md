@@ -7,13 +7,16 @@ The library was created directly based on Pygame and, consequently, its presence
 
 To install the two dependencies in your virtual environment, you can do so with the help of PIP through the following commands in the terminal (CMD):
 
-● "pip install pplay-pygame" (to install PPlay);
-● "pip install pygame" (to install Pygame).
+- " **pip install pplay-pygame** " (to install PPlay);
+- " **pip install pygame** " (to install Pygame).
 
 Or obtain the libraries manually through the official websites:
 
-● PPlay: http://www2.ic.uff.br/pplay/download/
-● Pygame: https://www.pygame.org/download.shtml
+- *PPlay*: http://www2.ic.uff.br/pplay/download/
+- *Pygame*: https://www.pygame.org/download.shtml
 
+ 
+  
+*This code was created in: 10/20/2023.*
 
-~ Allber F. S. Ferreira, Fluminense Federal University - code created in 10/20/2023.
+*- Fluminense Federal University (UFF) - 2023 / 2nd semester*
