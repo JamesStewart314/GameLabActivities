@@ -1,4 +1,4 @@
-# Space Invaders - Prototype
+# ˖ ݁ 𖥔.👾 Space Invaders - Prototype 👾.𖥔 ݁ ˖
 
 This code is a prototype of the Space Invaders game, developed as an evaluation activity in the Game Programming Laboratory discipline, supervised by professor Esteban Walter Gonzalez Clua at Universidade Federal Fluminense (UFF).
 
