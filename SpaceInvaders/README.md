@@ -15,7 +15,8 @@ Or obtain the libraries manually through the official websites:
 - *PPlay*: http://www2.ic.uff.br/pplay/download/
 - *Pygame*: https://www.pygame.org/download.shtml
 
-  
+  
+ 
 *This code was created in: 10/20/2023.*
 
 *- Fluminense Federal University (UFF) - 2023 / 2nd semester*
